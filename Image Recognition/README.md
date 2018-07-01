@@ -1,3 +1,3 @@
 # Description
 
-Tell if image present Cat or Dog
+Recognize animal on image.

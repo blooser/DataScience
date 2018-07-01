@@ -1,3 +1,3 @@
 # Description
 
-Try match telescope to the right class
+Try match telescope to the right class.

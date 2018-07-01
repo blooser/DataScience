@@ -1,3 +1,3 @@
 # Description
 
-Predict if SMS is spam
+SMS Spam prediction.
