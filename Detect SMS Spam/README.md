@@ -1,3 +1,0 @@
-# Description
-
-SMS Spam prediction.
