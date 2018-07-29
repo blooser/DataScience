@@ -10,5 +10,5 @@ My implementations for data predicting problems, everything for practical data s
 
 There are practical machine learning and neural networks recipes for data predicting.
 
-<i>Datasets comes from <b>UCL Machine Learning Repository</b></i>
+<i>Datasets comes from <b>UCI Machine Learning Repository</b></i>
 
